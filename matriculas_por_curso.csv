@@ -1,21 +1,21 @@
 quantidade_alunos,nome_do_curso
-148,Lógica de programação
-186,Java para Web
-95,C# para Web
-128,Ruby on Rails
-28,Cursos de Python
-72,PHP com MySql
-146,.NET para web
-1,Novas integrações com Java
-64,TDD com Java
-68,Código limpo com C#
-168,Preparatório para certificação Java
-19,Hardware básico
-34,Persistência com .NET
-89,Desenvolvendo jogos
-86,Análise de dados
-90,Estatística básica
-59,Internet das coisas
-19,Programação funcional
-95,Boas práticas em Java
-61,Orientação objetos com Java
+62,Lógica de programação
+52,Java para Web
+25,C# para Web
+33,Ruby on Rails
+59,Cursos de Python
+17,PHP com MySql
+56,.NET para web
+37,Novas integrações com Java
+70,TDD com Java
+12,Código limpo com C#
+81,Preparatório para certificação Java
+22,Hardware básico
+52,Persistência com .NET
+31,Desenvolvendo jogos
+82,Análise de dados
+16,Estatística básica
+44,Internet das coisas
+23,Programação funcional
+67,Boas práticas em Java
+18,Orientação objetos com Java
